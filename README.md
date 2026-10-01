@@ -1,4 +1,4 @@
-<img alt="MUHAMMAD AHMAD: back to the camera in a grey keyboard-key puffer jacket, facing the downtown Calgary skyline." src="assets/hero.svg" width="100%">
+<img alt="MUHAMMAD AHMAD: back to the camera in a grey keyboard-key puffer jacket, facing the downtown Calgary skyline." src="assets/hero-day.svg" width="100%">
 
 <p align="center"><a href="https://muhammad-ahmad.dev"><img src="assets/key-website.svg" alt="Website" width="24.5%"></a><a href="https://muhammad-ahmad.dev/resume/Muhammad-Ahmad-Resume.pdf"><img src="assets/key-resume.svg" alt="Resume (PDF)" width="24.5%"></a><a href="https://www.linkedin.com/in/ahmadmuhammadofficial/"><img src="assets/key-linkedin.svg" alt="LinkedIn" width="24.5%"></a><a href="mailto:contact@muhammad-ahmad.dev"><img src="assets/key-email.svg" alt="Email" width="24.5%"></a></p>
 
